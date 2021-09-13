@@ -1,41 +1,33 @@
 {
   "project_info": {
-    "project_number": "689174673259",
-    "project_id": "topicapps64",
-    "storage_bucket": "topicapps64.appspot.com"
+    "project_number": "53704115522",
+    "project_id": "metouchbase",
+    "storage_bucket": "metouchbase.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:689174673259:android:b1555470b6695020ce3e2e",
+        "mobilesdk_app_id": "1:53704115522:android:4f4eca0e19fc209f6f34db",
         "android_client_info": {
           "package_name": "rim.ice.topic.metouch"
         }
       },
       "oauth_client": [
         {
-          "client_id": "689174673259-mfc3pkqp95nbb69sehuei0h46fojqib9.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "rim.ice.topic.metouch",
-            "certificate_hash": "aa75b98b9d6f4eeed5caf133edaa25e3ab67ec15"
-          }
-        },
-        {
-          "client_id": "689174673259-11mu349tclh5e713d3dvfj900uehkt2q.apps.googleusercontent.com",
+          "client_id": "53704115522-vpcrq4tth6c3r6bvs6knhare9ql14rm8.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDqi64Wdc0Jtz0EgNjFsKeZzZa_XFuukR4"
+          "current_key": "AIzaSyDOEhS-GoFbBSrQjxC4z1TZNLqIQjgC_Ms"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "689174673259-11mu349tclh5e713d3dvfj900uehkt2q.apps.googleusercontent.com",
+              "client_id": "53704115522-vpcrq4tth6c3r6bvs6knhare9ql14rm8.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
